@@ -45,17 +45,23 @@ Time-series analysis to detect seasonality and demand patterns.
 
 ## Key Insights
 
-**Market Concentration**
-- The West region generates the highest revenue among all regions.
+### 1. Regional Market Performance
+The West region generates the highest revenue among all regions, driven by strong demand in large metropolitan cities.
 
-**Brand Leadership**
-- Coca-Cola is the leading brand in both revenue and profit.
+### 2. Brand Leadership
+Coca-Cola is the leading brand in both revenue and operating profit, indicating strong market dominance and high sales volume.
 
-**Seasonality**
-- Beverage sales peak during summer months, indicating strong seasonal demand.
+### 3. Seasonal Demand Patterns
+Sales peak during summer months, suggesting strong seasonal demand for beverage products.
 
-**Retail Channel**
-- Sodapop is the largest revenue-generating retailer.
+### 4. Retail Channel Strategy
+Sodapop is the largest revenue-generating retailer, highlighting its importance as a key distribution partner.
+
+## Business Recommendations
+
+• Increase marketing campaigns in underperforming regions such as the Midwest  
+• Strengthen partnerships with high-performing retailers  
+• Expand production capacity ahead of summer demand peaks  
 
 ## Tools Used
 
