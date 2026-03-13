@@ -5,7 +5,7 @@ This project analyzes beverage sales performance across regions, brands, retaile
 The goal is to identify key revenue drivers, evaluate profitability, and understand seasonal demand patterns.
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+[Dashboard.png](Dashboard.png)
 
 ## Business Questions
 This dashboard answers several key business questions:
@@ -66,6 +66,6 @@ Time-series analysis to detect seasonality and demand patterns.
 
 ## Project Files
 
-- `dashboard.pbix` – Power BI report file
-- `dashboard.png` – Dashboard screenshot
-- `dataset.csv` – Dataset used for analysis
+- [Dashboard.pbix](Dashboard.pbix) – Power BI report file  
+- [Dashboard.png](Dashboard.png) – Dashboard screenshot  
+- [Dataset.csv](Dataset.csv) – Dataset used for analysis
