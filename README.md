@@ -1,4 +1,4 @@
-# Beverage Sales & Profit Performance Dashboard
+# Beverage Sales Dashboard
 
 ## Project Overview
 This project analyzes beverage sales performance across regions, brands, retailers, and time using Power BI.  
